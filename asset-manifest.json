@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-nordic-project/static/css/main.b13421a6.chunk.css",
+    "main.js": "/reactjs-nordic-project/static/js/main.116c49c7.chunk.js",
+    "main.js.map": "/reactjs-nordic-project/static/js/main.116c49c7.chunk.js.map",
+    "runtime~main.js": "/reactjs-nordic-project/static/js/runtime~main.5dbc2868.js",
+    "runtime~main.js.map": "/reactjs-nordic-project/static/js/runtime~main.5dbc2868.js.map",
+    "static/js/2.bd3bccd6.chunk.js": "/reactjs-nordic-project/static/js/2.bd3bccd6.chunk.js",
+    "static/js/2.bd3bccd6.chunk.js.map": "/reactjs-nordic-project/static/js/2.bd3bccd6.chunk.js.map",
+    "index.html": "/reactjs-nordic-project/index.html",
+    "precache-manifest.5c83077ecf7adeae310521a8c0716065.js": "/reactjs-nordic-project/precache-manifest.5c83077ecf7adeae310521a8c0716065.js",
+    "service-worker.js": "/reactjs-nordic-project/service-worker.js",
+    "static/css/main.b13421a6.chunk.css.map": "/reactjs-nordic-project/static/css/main.b13421a6.chunk.css.map"
+  }
+}
